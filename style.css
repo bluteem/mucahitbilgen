@@ -88,3 +88,7 @@ body {
 footer {
 	padding: 4rem;
 }
+
+#anasayfa {
+	background-image: url("images/field.jpg");
+}
