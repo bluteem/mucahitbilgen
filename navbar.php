@@ -1,9 +1,9 @@
             <!-- Sticky Navbar -->
 			<nav class="fixed w-full top-0 z-50 bg-blue-600 bg-opacity-90 text-white shadow-[0_3px_10px_rgb(0,0,0,0.2)]">
 				<div class="container mx-auto">
-					<div class="flex justify-between items-center py-2">
-						<a href="/" class="ml-8 md:ml-12 mr-auto text-lg">
-							<img src="images/mm-logo.jpg" class="w-10 inline-block" alt="Logo">
+					<div class="flex justify-between items-center h-full py-2">
+						<a href="/" class="flex justify-between items-center h-full ml-8 md:ml-12 mr-auto text-lg">
+							<img src="images/mm-logo.jpg" class="w-12 inline-block mr-3" alt="Logo">
 							<div class="inline-block">
 								<p>Mücahit BİLGEN <br> Serbest Muhasebeci Mali Müşavir</p>
 							</div>
