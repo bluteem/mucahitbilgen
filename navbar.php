@@ -5,13 +5,13 @@
 						<a href="/" class="flex justify-between items-center h-full ml-8 md:ml-12 mr-auto text-lg">
 							<img src="images/mm-logo.jpg" class="w-12 inline-block mr-3" alt="Logo">
 							<div class="inline-block">
-								<p>Mücahit BİLGEN <br> Serbest Muhasebeci Mali Müşavir</p>
+								<p class="leading-5">Mücahit BİLGEN <br> <span class="text-xs md:text-lg">Serbest Muhasebeci Mali Müşavir</span></p>
 							</div>
 						</a>
 						<!-- Responsive Menu Links (Initially Hidden) -->
 						<div id="menuLinks" class="hidden md:flex space-x-4 ml-auto mr-8 md:mr-12">
-							<a href="/hizmetlerimiz" class="hover:bg-blue-700 px-3 py-4 rounded">Hizmetlerimiz</a>
-							<a href="/iletisim" class="hover:bg-blue-700 px-3 py-4 rounded">İletişim</a>
+							<a href="/taslak/hizmetlerimiz" class="hover:bg-blue-700 px-3 py-4 rounded">Hizmetlerimiz</a>
+							<a href="/taslak/iletisim" class="hover:bg-blue-700 px-3 py-4 rounded">İletişim</a>
 						</div>
 						<!-- Responsive Menu Button -->
 						<div class="md:hidden mx-6 pt-2 ml-auto">
@@ -30,11 +30,11 @@
 				<ul>
 					<li><h2 class="py-4 px-6 text-sky-500 border-b border-white">Menü</h2></li>
 					<li>
-						<a href="/hizmetlerimiz" onclick="toggleMenu()" class="block py-4 px-6 text-white no-underline hover:bg-gray-800"
+						<a href="/taslak/hizmetlerimiz" onclick="toggleMenu()" class="block py-4 px-6 text-white no-underline hover:bg-gray-800"
 							>Hizmetlerimiz</a>
 					</li>
 					<li>
-						<a href="/iletisim" onclick="toggleMenu()" class="block py-4 px-6 text-white no-underline hover:bg-gray-800"
+						<a href="/taslak/iletisim" onclick="toggleMenu()" class="block py-4 px-6 text-white no-underline hover:bg-gray-800"
 							>İletişim</a>
 					</li>
 				</ul>

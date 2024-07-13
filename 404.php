@@ -3,10 +3,10 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>Sayfa Bulunumadı - Bandırma Deniz Oto Kurtarıcı Çekici - 7/24 Yol Yardım</title>
+		<title>Sayfa Bulunumadı - SMMM Mücahit BİLGEN</title>
 		<?php include "head.php"; ?>
 	</head>
-	<body class="bg-gray-200">
+	<body class="bg-blue-200">
 
 		<!-- Loading Screen -->
 		<div class="loading-screen">
@@ -31,6 +31,5 @@
 		</div>
 		
 		<?php include "custom-scripts.php"; ?>
-		<script src="assets/lightbox2/js/lightbox-plus-jquery.min.js"></script>
 	</body>
 </html>

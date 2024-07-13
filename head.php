@@ -16,5 +16,4 @@
 		<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Yeseva+One&display=swap" rel="stylesheet">
 		<!-- Include Tailwind CSS via CDN -->
 		<script src="https://cdn.tailwindcss.com"></script>
-		<link href="assets/lightbox2/css/lightbox.min.css" rel="stylesheet" />
 		<link href="style.css" rel="stylesheet" />

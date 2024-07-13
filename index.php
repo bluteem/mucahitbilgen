@@ -27,7 +27,7 @@
 				<!-- Ana section -->
 				<div class="absolute bg-white bg-opacity-50 h-screen w-full z-10"></div>
 				<div class="container z-20 text-center bg-blue-100 bg-opacity-70 mx-8 md:mx-12 px-6 py-12 text-black rounded-md">
-					<h1 class="text-7xl mb-4 text-center ana-font"><span class="text-5xl">Büromuza</span> <br> Hoşgeldiniz</h1>
+					<h1 class="text-4xl md:text-7xl mb-4 text-center ana-font"><span class="text-3xl md:text-5xl">Büromuza</span> <br> Hoşgeldiniz</h1>
 					<div class="text-center">
 						<div class="w-32 border border-black inline-block"></div>
 					</div>
