@@ -22,15 +22,25 @@
 		<?php include "navbar.php"; ?>
 
 		<!-- Content Sections -->
-		<main class="container mx-auto">
-			<div id="anasayfa" class="h-screen flex items-center justify-center text-xl pt-32 mx-8 md:mx-12">
+		<main>
+			<div id="anasayfa" class="h-screen flex items-center justify-center text-xl bg-cover">
 				<!-- Ana section -->
 				<div class="absolute bg-white bg-opacity-50 h-screen w-full z-10"></div>
-				<div class="z-20 text-center bg-black bg-opacity-70 mx-4 md:mx-12 px-6 py-12 text-gray-200 rounded-md">
-					<h1 class="text-4xl font-bold mb-4 text-center">Büromuza <br> Hoşgeldiniz.</h1>
+				<div class="container z-20 text-center bg-blue-100 bg-opacity-70 mx-8 md:mx-12 px-6 py-12 text-black rounded-md">
+					<h1 class="text-7xl mb-4 text-center ana-font"><span class="text-5xl">Büromuza</span> <br> Hoşgeldiniz</h1>
 					<div class="text-center">
-						<div class="w-32 border border-blue-800 inline-block"></div>
+						<div class="w-32 border border-black inline-block"></div>
 					</div>
+					<p class="mt-6">Muhasebe, finansal raporlama, vergi danışmanlığı, mali analiz, bordro ve insan kaynakları süreçleri ve yatırım danışmanlığı alanlarında çözüm odaklı hizmet anlayışıyla yanınızdayız.</p>
+					
+					<a href="/hizmetlerimiz" class="relative inline-block text-lg group mt-8">
+						<span class="relative z-10 block px-8 py-4 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 rounded-lg group-hover:text-white">
+						<span class="absolute inset-0 w-full h-full px-5 py-3 rounded-lg bg-gray-50"></span>
+						<span class="absolute left-0 w-48 h-48 -ml-2 transition-all duration-300 origin-top-right -rotate-90 -translate-x-full translate-y-12 bg-gray-900 group-hover:-rotate-180 ease"></span>
+						<span class="relative">Bilgi Al</span>
+						</span>
+						<span class="absolute bottom-0 right-0 w-full h-12 -mb-1 -mr-1 transition-all duration-200 ease-linear bg-gray-900 rounded-lg group-hover:mb-0 group-hover:mr-0" data-rounded="rounded-lg"></span>
+					</a>
 				</div>
 			</div>
 		</main>
