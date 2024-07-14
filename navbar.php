@@ -26,15 +26,19 @@
 			<!-- Off-canvas Menu -->
 			<nav
 				id="offCanvasMenu"
-				class="off-canvas fixed top-0 h-screen bg-gray-600 z-50 transition-transform duration-300 ease-in-out left-[-250px] w-[250px]">
+				class="off-canvas fixed top-0 h-screen bg-blue-800 bg-opacity-90 z-50 transition-transform duration-300 ease-in-out left-[-250px] w-[250px]">
 				<ul>
-					<li><h2 class="py-4 px-6 text-sky-500 border-b border-white">Menü</h2></li>
+					<li><h2 class="py-5 px-6 text-white font-bold">MENÜ</h2></li>
+					<li><div class="border-b border-white w-20 h-0.5"></div></li>
+					<li><div class="border-b border-white w-16 h-0.5"></div></li>
+					<li><div class="border-b border-white w-12 h-0.5"></div></li>
+					<li><div class="border-b border-white w-8 h-0.5"></div></li>
 					<li>
-						<a href="/taslak/hizmetlerimiz" onclick="toggleMenu()" class="block py-4 px-6 text-white no-underline hover:bg-gray-800"
+						<a href="/taslak/hizmetlerimiz" onclick="toggleMenu()" class="block py-5 px-6 text-white font-bold no-underline hover:bg-blue-900"
 							>Hizmetlerimiz</a>
 					</li>
 					<li>
-						<a href="/taslak/iletisim" onclick="toggleMenu()" class="block py-4 px-6 text-white no-underline hover:bg-gray-800"
+						<a href="/taslak/iletisim" onclick="toggleMenu()" class="block py-5 px-6 text-white font-bold no-underline hover:bg-blue-900"
 							>İletişim</a>
 					</li>
 				</ul>
