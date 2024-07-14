@@ -5,7 +5,7 @@
 	<?php include "google-scripts.php"; ?>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>SMMM Mücahit Bilgen</title>
+	<title>İletişim - SMMM Mücahit Bilgen</title>
 	<?php include "head.php"; ?>
 </head>
 

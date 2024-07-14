@@ -5,7 +5,7 @@
 	<?php include "google-scripts.php"; ?>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title>SMMM Mücahit Bilgen</title>
+	<title>Hizmetlerimiz - SMMM Mücahit Bilgen</title>
 	<?php include "head.php"; ?>
 </head>
 
@@ -26,7 +26,7 @@
 			<div id="hizmetlerimiz" class="min-h-96 text-xl pt-32 mx-8 md:mx-12 mb-32">
 				<h1 class="text-4xl font-bold mb-12 text-center">Hizmetlerimiz</h1>
 				<div class="flex flex-wrap justify-center">
-					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
+					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4 bg-blue-100">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/01-muhasebe.jpg" alt="Card Image">
 						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Muhasebe ve Finansal Raporlama:</div>
@@ -35,7 +35,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
+					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4 bg-blue-100">
 						<img class="w-full  transition duration-300 transform hover:scale-110" src="images/02-vergi.jpg" alt="Card Image">
 						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Vergi Danışmanlığı ve Beyannameleri:</div>
@@ -44,7 +44,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
+					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4 bg-blue-100">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/03-mali.jpg" alt="Card Image">
 						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Mali Analiz ve Danışmanlık:</div>
@@ -53,7 +53,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
+					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4 bg-blue-100">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/04-denetim.jpg" alt="Card Image">
 						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Denetim Hizmetleri:</div>
@@ -62,7 +62,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
+					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4 bg-blue-100">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/05-bordro.jpg" alt="Card Image">
 						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Bordro ve İnsan Kaynakları Hizmetleri:</div>
@@ -71,7 +71,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
+					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4 bg-blue-100">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/06-yatirim.jpg" alt="Card Image">
 						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Yatırım Danışmanlığı:</div>

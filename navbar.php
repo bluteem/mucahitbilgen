@@ -2,7 +2,7 @@
 			<nav class="fixed w-full top-0 z-50 bg-blue-600 bg-opacity-90 text-white shadow-[0_3px_10px_rgb(0,0,0,0.2)]">
 				<div class="container mx-auto">
 					<div class="flex justify-between items-center h-full py-2">
-						<a href="/taslak" class="flex justify-between items-center h-full ml-8 md:ml-12 mr-auto text-lg">
+						<a href="/" class="flex justify-between items-center h-full ml-8 md:ml-12 mr-auto text-lg">
 							<img src="images/mm-logo.jpg" class="w-12 inline-block mr-3" alt="Logo">
 							<div class="inline-block">
 								<p class="leading-5">Mücahit BİLGEN <br> <span class="text-xs md:text-lg">Serbest Muhasebeci Mali Müşavir</span></p>
@@ -10,8 +10,8 @@
 						</a>
 						<!-- Responsive Menu Links (Initially Hidden) -->
 						<div id="menuLinks" class="hidden md:flex space-x-4 ml-auto mr-8 md:mr-12">
-							<a href="/taslak/hizmetlerimiz" class="hover:bg-blue-700 px-3 py-4 rounded">Hizmetlerimiz</a>
-							<a href="/taslak/iletisim" class="hover:bg-blue-700 px-3 py-4 rounded">İletişim</a>
+							<a href="/hizmetlerimiz" class="hover:bg-blue-700 px-3 py-4 rounded">Hizmetlerimiz</a>
+							<a href="/iletisim" class="hover:bg-blue-700 px-3 py-4 rounded">İletişim</a>
 						</div>
 						<!-- Responsive Menu Button -->
 						<div class="md:hidden mx-6 pt-2 ml-auto">
@@ -34,11 +34,11 @@
 					<li><div class="border-b border-white w-12 h-0.5"></div></li>
 					<li><div class="border-b border-white w-8 h-0.5"></div></li>
 					<li>
-						<a href="/taslak/hizmetlerimiz" onclick="toggleMenu()" class="block py-5 px-6 text-white font-bold no-underline hover:bg-blue-900"
+						<a href="/hizmetlerimiz" onclick="toggleMenu()" class="block py-5 px-6 text-white font-bold no-underline hover:bg-blue-900"
 							>Hizmetlerimiz</a>
 					</li>
 					<li>
-						<a href="/taslak/iletisim" onclick="toggleMenu()" class="block py-5 px-6 text-white font-bold no-underline hover:bg-blue-900"
+						<a href="/iletisim" onclick="toggleMenu()" class="block py-5 px-6 text-white font-bold no-underline hover:bg-blue-900"
 							>İletişim</a>
 					</li>
 				</ul>
