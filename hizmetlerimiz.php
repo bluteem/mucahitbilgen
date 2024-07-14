@@ -28,7 +28,7 @@
 				<div class="flex flex-wrap justify-center">
 					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/01-muhasebe.jpg" alt="Card Image">
-						<div class="px-6 py-4">
+						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Muhasebe ve Finansal Raporlama:</div>
 							<p class="text-gray-700 text-base text-justify">
 								Büromuz, işletmelerin günlük finansal işlemlerini kaydeder ve bu işlemleri doğru ve şeffaf bir şekilde raporlar.
@@ -37,7 +37,7 @@
 					</div>
 					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
 						<img class="w-full  transition duration-300 transform hover:scale-110" src="images/02-vergi.jpg" alt="Card Image">
-						<div class="px-6 py-4">
+						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Vergi Danışmanlığı ve Beyannameleri:</div>
 							<p class="text-gray-700 text-base text-justify">
 								Vergi mevzuatı karmaşıktır ve sürekli değişkenlik gösterir. Mali müşavirlik büromuz, mükelleflerine vergi planlaması ve beyannameleri konusunda danışmanlık yapar ve vergi beyannamelerinin doğru ve zamanında hazırlanmasını sağlar.
@@ -46,7 +46,7 @@
 					</div>
 					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/03-mali.jpg" alt="Card Image">
-						<div class="px-6 py-4">
+						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Mali Analiz ve Danışmanlık:</div>
 							<p class="text-gray-700 text-base text-justify">
 								Büromuz ihtiyaç halinde, işletmelerin finansal performansını analiz eder ve bu analizler doğrultusunda stratejik önerilerde bulunur. Bu sayede işletmeler, daha bilinçli finansal kararlar alabilirler.
@@ -55,7 +55,7 @@
 					</div>
 					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/04-denetim.jpg" alt="Card Image">
-						<div class="px-6 py-4">
+						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Denetim Hizmetleri:</div>
 							<p class="text-gray-700 text-base text-justify">
 								İşletmelerin mali kayıtlarının ve raporlarının doğruluğu tarafımızca denetlenir. Bu hizmet, işletmelerin yasal uyumluluğunu ve finansal dürüstlüğünü sağlamaya yardımcı olur.
@@ -64,7 +64,7 @@
 					</div>
 					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/05-bordro.jpg" alt="Card Image">
-						<div class="px-6 py-4">
+						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Bordro ve İnsan Kaynakları Hizmetleri:</div>
 							<p class="text-gray-700 text-base text-justify">
 								İşletmelerin çalışanlarının bordro işlemlerinin yürütülmesi ve insan kaynakları süreçlerinde destek sağlıyoruz.
@@ -73,7 +73,7 @@
 					</div>
 					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4">
 						<img class="w-full transition duration-300 transform hover:scale-110" src="images/06-yatirim.jpg" alt="Card Image">
-						<div class="px-6 py-4">
+						<div class="px-6 py-4 bg-blue-100">
 							<div class="font-bold text-xl my-2 min-h-14">Yatırım Danışmanlığı:</div>
 							<p class="text-gray-700 text-base text-justify">
 								Büromuz, işletmelerin ve bireylerin yatırım kararlarını yönlendirmelerine yardımcı olur. Piyasa analizleri ve finansal öngörüler sunarak, doğru yatırım stratejileri geliştirilmesine katkıda bulunurlar.
