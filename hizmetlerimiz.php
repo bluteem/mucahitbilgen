@@ -71,15 +71,6 @@
 							</p>
 						</div>
 					</div>
-					<div class="flex-initial max-w-md rounded overflow-hidden shadow-lg m-4 my-4 bg-blue-100">
-						<img class="w-full transition duration-300 transform hover:scale-110" src="images/06-yatirim.jpg" alt="Card Image">
-						<div class="px-6 py-4 bg-blue-100">
-							<div class="font-bold text-xl my-2 min-h-14">Yatırım Danışmanlığı:</div>
-							<p class="text-gray-700 text-base text-justify">
-								Büromuz, işletmelerin ve bireylerin yatırım kararlarını yönlendirmelerine yardımcı olur. Piyasa analizleri ve finansal öngörüler sunarak, doğru yatırım stratejileri geliştirilmesine katkıda bulunurlar.
-							</p>
-						</div>
-					</div>
 				</div>
 			</div>
 		</main>
